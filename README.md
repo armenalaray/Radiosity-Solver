@@ -1,3 +1,3 @@
-# Global Illumination Objects
+# Radiosity Solver
 
-These are objects that interact to make a 3D image.
+Radiosity Solver
